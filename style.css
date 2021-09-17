@@ -1,0 +1,61 @@
+body {
+    max-width: 90%;
+    margin: 0 auto;
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom, right;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+}
+header > h2 {
+    background-color: yellow;
+}
+figure {
+    float: right;
+}
+p {
+    font-size: 15px;
+    font-family: Georgia, serif;
+    color: darkslategray;
+    line-height: 1.8;
+    word-spacing: 2px;
+}
+.firstparagraph {
+    font-weight: bold;
+}
+q {
+    font-style: italic;
+}
+.villagers {
+    color: brown;
+}
+.farmer {
+    color: cornflowerblue;
+}
+.good {
+    text-transform: uppercase;
+    color: green;
+}
+.bad {
+    text-transform: uppercase;
+    color: red;
+}
+tr {
+    background-color: white;
+}
+.colortwo {
+    background-color: grey;
+}
+a {
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    color: steelblue;
+}
+a:hover {
+    color: lightblue;
+    background-color: steelblue;
+    text-decoration: underline;
+}
+a:visited {
+    color: indigo;
+}
